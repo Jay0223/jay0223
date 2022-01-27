@@ -1,12 +1,14 @@
-# Jay Wu's Portfolio
+I'm a front-end (***full stack to be***) web developer. 
 
-I'm a front-end (full stack to be) web developer. This is the [Github Page](https://jay0223.github.io/) for my portfolio. Go check it out and shoot me a message. I will get back to you.
+Check out the [Github Page](https://jay0223.github.io/).
+
+Check out the [Repository](https://github.com/Jay0223/Jay0223.github.io) of my portfolio.
 
 > Never stop coding. Never stop learning.
 
 ---
 
-## Major Updates Log
+## What I've been up to
 
 - ### Jan. 27 2022
 
