@@ -10,13 +10,13 @@ Check out the [Repository](https://github.com/Jay0223/Jay0223.github.io) of my p
 
 ## What I've been up to
 
-- ### Feb.17 2022
+- ### Jul 2023
 
-1. Designed a website for Chinese restaurant. [Check it out](https://jay0223.github.io/restaurant/).
+1. Chinese restaurant website. [Check it out](https://jay0223.github.io/restaurant/).
 
 ![chinese restaurant](https://github.com/Jay0223/Jay0223.github.io/blob/master/img/restaurants-cover.jpg?raw=true)
 
-- ### Feb.7 2022
+- ### Jun 2023
 
 1. First uploaded project. An easy site clone. [Check it out](https://jay0223.github.io/portfolioclone/).
 
@@ -24,7 +24,7 @@ Check out the [Repository](https://github.com/Jay0223/Jay0223.github.io) of my p
 
 2. Inspired by [Dennis Ivanov](http://dennisivy-portfolio.s3-website-us-west-2.amazonaws.com/)
 
-- ### Jan. 27 2022
+- ### May 2023
 
 1. Portfolio landing page launched.
 
