@@ -14,6 +14,9 @@ Check out the [Repository](https://github.com/Jay0223/Jay0223.github.io) of my p
 
 1. Functional contact form on portfolio home page.
 2. Minor fixes and changes on earlier projects.
+3. New Project - [LA Mountains page](https://jay0223.github.io/lamountains/)
+
+![Los Angeles Mountains](https://github.com/Jay0223/Jay0223.github.io/blob/master/img/lamountain-cover.jpg?raw=true)
 
 - ### Aug 2023
 
