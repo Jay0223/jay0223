@@ -18,6 +18,10 @@ Check out the [Repository](https://github.com/Jay0223/Jay0223.github.io) of my p
 
 ![Los Angeles Mountains](https://github.com/Jay0223/Jay0223.github.io/blob/master/img/lamountain-cover.jpg?raw=true)
 
+4. New Project - [Guess Number Game](https://jay0223.github.io/guessnumber/)
+
+![Guess Number Game](https://github.com/Jay0223/Jay0223.github.io/blob/master/img/guessnumber-cover.jpg?raw=true)
+
 - ### Aug 2023
 
 Busy moving from Minnesota to Wisconsin...
