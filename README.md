@@ -10,6 +10,13 @@ Check out the [Repository](https://github.com/Jay0223/Jay0223.github.io) of my p
 
 ## What I've been up to
 
+- ### Nov 2023
+
+1. New Project - [Minesweeper](https://jay0223.github.io/minesweeper/)
+
+![Minesweeper](https://github.com/Jay0223/Jay0223.github.io/blob/master/img/minesweeper-cover.jpg?raw=true)
+
+
 - ### Sep 2023
 
 1. Functional contact form on portfolio home page.
